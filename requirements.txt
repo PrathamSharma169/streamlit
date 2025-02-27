@@ -3,3 +3,4 @@ numpy
 streamlit
 pillow
 python-dotenv
+opencv-contrib-python
